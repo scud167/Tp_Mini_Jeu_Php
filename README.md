@@ -1,5 +1,5 @@
 # Tp_Mini_Jeu_Php
-## Juste pour l'entrainement (OpenClassRoom)
+## Juste pour l'entrainement (OpenClassRooms)
 
 ### Amelioration a faire
     
